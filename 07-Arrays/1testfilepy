@@ -1,0 +1,27 @@
+arr = [2,3,7,5,4]
+print( arr[3])
+
+arr[0]
+
+ostatni = len(arr)
+arr[ostatni-1] 
+#arr[len(arr)-1] ---> druga opcja
+arr[len(arr-2)]
+arr[-1]
+arr[-2]
+#arr[-2] ----> dla pythona
+
+#arr[len(arr)//2+1] -----> tylko dla nieparzystej liczby
+
+arr[2] = 15
+
+for value in arr:
+        print(value)
+
+ile = len(arr)
+
+for i in range(ile):
+       #print(arr[i])
+       arr[i]=1
+       
+
