@@ -6,3 +6,5 @@ while i < len(arr):
     i = i + 1
     
 print(arr)
+
+#POTRENOWAĆ DEBUGER !!!!!!!!!!
