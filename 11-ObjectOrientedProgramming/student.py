@@ -8,8 +8,10 @@ def main():
     # object creation based on the class
     student1 = Student()
     student2 = Student()
+
     student1.name = "Dominic"
     student1.age = 19
+    
     student2.name = "Olivia"
     student2.age = 21
 
