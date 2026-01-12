@@ -1,0 +1,4 @@
+=== LOG SYSTEMOWY ===
+Uzytkownik: Marek
+Postep: 74.52%
+Lokalizacja: C:/pliki/projekt
