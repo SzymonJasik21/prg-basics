@@ -29,8 +29,8 @@ class Thermometer:
         message = f"Temperature: {self.last_temperature}C"
         
         if self.last_temperature >= 41.0:
-            message += " (CRITICAL TEMPERATURE!!)"
+            message += "(CRITICAL TEMPERATURE!!)"
         elif self.last_temperature >= 37.0:
-            message += " (fever)"
+            message += "(fever)"
             
         print(message)
